@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: / 
 languageCode: en-us
 title: "Terry Haohui Fang site"
 theme: hugo-lithium
@@ -14,7 +14,9 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
+    - name: "about"
       url: /about/
+    - name: "Research experience"
+      url: /resexperience/
 
-    - baseurl: https://fhaohui.github.io/biostat776-intro-Terry-Haohui-Fang/
+    
